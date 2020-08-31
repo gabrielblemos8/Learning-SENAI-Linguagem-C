@@ -1,0 +1,36 @@
+h4{
+    margin-left: 2%;
+  }
+  
+  body {
+    margin:0 0 5px 0;
+    padding:0;
+    
+  }
+  
+  
+  #ConteudoColunaEsquerda {
+   position:absolute;
+   width:500px;
+   top:60px;
+   left:5px;
+   color:rgb(255, 255, 255);
+   
+  
+  }
+  #ColunaEsquerda {
+   background:rgb(41, 62, 73);
+  
+  }
+  #Separacao {
+    margin-left:500px;
+    padding-left:2px;
+    background-color: snow;
+    padding-bottom: 20%;
+    
+  }
+  #Centro {    
+    color:rgb(0, 0, 0);
+   padding:2px 10px;
+   text-align:justify;
+  }
